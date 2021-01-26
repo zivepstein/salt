@@ -83,7 +83,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #f2f5f3;
+		background: #6B7770;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -100,7 +100,7 @@ input, select, textarea {
 	body, input, textarea, select {
 		font-family: 'Open Sans', sans-serif;
 		font-weight: 400;
-		color: #6b7770;
+		color: #6B7770;
 		font-size: 13pt;
 		line-height: 2em;
 	}
@@ -109,7 +109,7 @@ input, select, textarea {
 		font-family: 'Marcellus', serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #6B7770;
 		margin: 0 0 0.5em 0;
 		line-height: 1.3;
 	}
@@ -155,7 +155,7 @@ input, select, textarea {
 
 	b, strong {
 		font-weight: 700;
-		color: #6b7770;
+		color: #73b9eb;
 	}
 
 	i, em {
@@ -2098,7 +2098,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #73b9eb;
 	}
 
 	form input[type="text"],
@@ -2183,7 +2183,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+				color: #73b9eb;
 			}
 
 			table.default thead {
@@ -2390,7 +2390,7 @@ input, select, textarea {
 				position: relative;
 				display: block;
 				text-decoration: none;
-				color: #6b7770;
+				color: #73b9eb;
 				top: -6px;
 				padding: 6px 1.5em 0.25em 1.5em;
 				border-bottom-left-radius: 100px;
@@ -2419,7 +2419,7 @@ input, select, textarea {
 
 	.dropotron {
 		list-style: none;
-		background: #6B7770;
+		background: #73b9eb;
 		color: #fff;
 		border-bottom-left-radius: 100px;
 				border-bottom-right-radius: 6px;
@@ -2469,7 +2469,7 @@ input, select, textarea {
 				left: 50%;
 				margin-left: -1em;
 				top: -0.65em;
-				border-bottom: solid 1em #6B7770;
+				border-bottom: solid 1em #73b9eb;
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
